@@ -98,7 +98,7 @@ router.post("/send-email", async (request, response) => {
         }
     })
 
-    response.send({ message: "success" });
+   
 })
 
 //reset password
